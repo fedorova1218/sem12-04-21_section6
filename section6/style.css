@@ -1,0 +1,92 @@
+body {
+    background-image: url(img/green_elem.png);
+    background-repeat: no-repeat;
+    background-position: 20% 0%;
+    background-size: 160px 195px;
+}
+
+#main-title
+{
+    margin-top: 130px;
+    text-align: center;
+    color:#373737;
+    font-family: 'Alata';
+  
+}
+
+#text-down
+{
+    text-align: center;
+    color: #7D7D7D;
+    font-family: 'Alata';
+    margin-top: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
+
+.people
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 100px;
+
+}
+
+.reporter
+{
+    flex-basis: 400px;
+}
+
+.architect
+{
+    flex-basis: 400px;
+}
+
+.foto-text
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.foto
+{
+    border-radius: 12px;
+    margin: 20px;
+}
+
+
+.text
+{
+    margin: 10px;
+}
+
+.text-people
+{
+    color: rgba(55, 71, 79, 0.721569);
+    font-family: Alata, Arial;
+}
+
+.name
+{
+    color: #37474F;
+    font-family: Alata, Arial;
+}
+ .prof
+ {
+    color: rgba(55, 71, 79, 0.721569);
+    font-family: Alata, Arial;
+ }
+
+ img
+ {
+    border-radius: 12px;   
+ }
+
+ footer
+ {
+    text-align: center;
+ }
